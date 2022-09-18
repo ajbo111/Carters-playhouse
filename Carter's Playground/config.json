@@ -6,7 +6,5 @@
   "webhook_enabled": "False",
   "webhook_ping": "<@33333333>",
   "webhook": "https://discord.com/api/webhooks/xxxxxxxxxxx",
-  "authorization": "xxxxxxxxxx",
-  "wait_time": 2,
-  "message": "Can anybody spare 5 robux, I have none left."
+  "authorization": "xxxxxxxxxx"
 }
